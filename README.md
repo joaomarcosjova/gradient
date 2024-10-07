@@ -1,4 +1,4 @@
-## 🌈 20DaysOfCode - Gradientti App 🌈
+## - Gradientti App 
 
 A sequential background color changing gradient website for the CodeVixens
 Academy challenge.
@@ -69,7 +69,7 @@ Gradientti requires [Node.js](https://nodejs.org/) v17+
 - Clone the repository
 
 ```sh
-git clone https://github.com/elitenoire/gradientti.git
+git clone https://github.com/joaomarcosjova/gradient.git
 ```
 
 - Install dependencies using `yarn`
